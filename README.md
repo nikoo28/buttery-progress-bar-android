@@ -1,5 +1,7 @@
 This projects will describe you how to add a smooth moving progress bar in your android application. You can use this progress bar in your web activities, or anywhere to show the loading process.
 
+![sample-image] (https://github.com/nikoo28/buttery-progress-bar-android/blob/master/screenshot/device-2014-10-20-024211.png)
+
 Import the file __ButteryProgressBar.java__ in your application project.
 
 Edit the following values for a desired effect.
